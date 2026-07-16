@@ -46,4 +46,4 @@ Project is under continuous development and enhancement.
 
 Dharmendra Dhakad
 Electronics and Communication Engineering Student
-ITM University, Gwalior
+ITM Universe, Gwalior
